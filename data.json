@@ -1,0 +1,52 @@
+{
+  "data": {
+    "title": "JavaScript Projects",
+    "projects": [
+      {
+        "id" : "0",
+        "project_name" : "Random Quote Generator",
+        "description" : "Generates a new random quote every time a button is pressed",
+        "technologies" : ["HTML5", "CSS3", "JavaScript"],
+        "live_link" : "http://ghughes13.com/SubSites/RandomQuoteGen/randomQuote.html",
+        "github_link" : "https://github.com/ghughes13/TreeHouse-JSDev-Project-1",
+        "image_urls" : ["imgs/quoteLarge.png" , "imgs/quoteSmall.png"]
+      },
+      {
+        "id" : "1",
+        "project_name" : "Pagination & Content Filter",
+        "description" : "Divides 56 HTML user profiles into pages of 10 and allows you to search through them",
+        "technologies" : ["JavaScript"],
+        "live_link" : "http://ghughes13.com/SubSites/pagination/pagination.html",
+        "github_link" : "https://github.com/ghughes13/TreeHouse-JSDev-Project-2",
+        "image_urls" : ["imgs/paginationLarge.png" , "imgs/paginationSmall.png"]
+      },
+      {
+        "id" : "2",
+        "project_name" : "JavaScript Form Validation",
+        "description" : "A web form that validates imput with JavaScript",
+        "technologies" : ["JavaScript"],
+        "live_link" : "http://ghughes13.com/SubSites/javascriptForm/jsForm.html",
+        "github_link" : "https://github.com/ghughes13/TreeHouse-JSDev-Project-3",
+        "image_urls" : ["imgs/javascriptFormLarge.png" , "imgs/javascriptFormSmall.png"]
+      },
+      {
+        "id" : "3",
+        "project_name" : "Tic Tac Toe Game",
+        "description" : "A simple tic tac toe game made with JavaScript",
+        "technologies" : ["JavaScript"],
+        "live_link" : "http://ghughes13.com/SubSites/tictactoe/tictactoe.html",
+        "github_link" : "https://github.com/ghughes13/TreeHouse-JSDev-Project-4",
+        "image_urls" : ["imgs/ticTacToeLarge.png" , "imgs/ticTacToeSmall.png"]
+      },
+      {
+        "id" : "4",
+        "project_name" : "Wheel Of Success",
+        "description" : "Essentially a hangman game",
+        "technologies" : ["JavaScript"],
+        "live_link" : "http://ghughes13.com/SubSites/game_show_app_v1/wheelofsuccess.html",
+        "github_link" : "https://github.com/ghughes13/TreeHouse_-WebDev-Project-7",
+        "image_urls" : ["imgs/wheelOfSuccessLarge.png" , "imgs/wheelOfSuccessSmall.png"]
+      }
+    ]
+  }
+}
